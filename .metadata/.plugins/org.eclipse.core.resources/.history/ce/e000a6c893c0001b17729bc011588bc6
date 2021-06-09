@@ -1,0 +1,5 @@
+package com.claritae.springboot.cruddemo.dao;
+
+public class EmployeeDAOHibernateImpl {
+
+}

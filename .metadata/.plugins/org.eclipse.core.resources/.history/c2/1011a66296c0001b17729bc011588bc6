@@ -1,0 +1,18 @@
+package com.claritae.springboot.cruddemo.entity;
+
+import java.util.List;
+
+import org.springframework.stereotype.Repository;
+
+import com.claritae.springboot.cruddemo.dao.EmployeeDAO;
+
+@Repository
+public class EmployeeDAOHibernateImpl implements EmployeeDAO {
+
+	@Override
+	public List<Employee> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

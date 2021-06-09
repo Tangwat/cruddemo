@@ -1,0 +1,5 @@
+package com.claritae.springboot.cruddemo.service;
+
+public interface EmployeeService {
+
+}
